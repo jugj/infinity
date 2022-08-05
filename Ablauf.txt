@@ -1,0 +1,16 @@
+Ablauf
+
+1. Gehe Nauch links um von rechts in einen Käfig zu kommen
+2. Dort findest du eine Spitzhacke
+3. Zerstöre die Wand mit der Spitzhacke indem du auf die Cracks schlägst
+4. Dahinter befindet sich ein Tresor für den du einen Code benötigst
+5. An der Seite der Wand befindet sich ein Zettel mit dem Code
+6. Mit diesem kannst du nun den Tresor öffnen
+7. Im Tresor befinden Sich Koordinaten 
+8. Wenn man die Bodenplatten als Koordinatenpunkte sieht befindet sich an der
+   Koordinate, welche auf dem Zettel steht eine Platte die man anheben kann
+9. Darunter befindet sich ein Metalldetektor
+10. Mit dem Metalldetektor in der Hand muss man nun bei grünen Signalen die Bodenplatten
+    anheben oder mit der Spitzhacke aufschlagen, um die darunterliegenden
+    Schlüsselfragmente Stück für Stück zusammenzusetzen
+11. Wenn man alle gefunden hat kann man die Tür öffnen und in das nächste Level gehen
